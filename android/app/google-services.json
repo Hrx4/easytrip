@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "757352384919",
+    "firebase_url": "https://easytrip-7ee18-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "easytrip-7ee18",
+    "storage_bucket": "easytrip-7ee18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757352384919:android:1bc35f1536eafddcd89cd2",
+        "android_client_info": {
+          "package_name": "com.easytrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757352384919-ch7cu3be17asiddrvhjvqrr14gcogfsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easytrip",
+            "certificate_hash": "cb30fe77dbafd46fe6445cf84f22ea6299e5934a"
+          }
+        },
+        {
+          "client_id": "757352384919-cceqhk4mn3musp78use2uvonf7uocckg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvZ2TXQnVr5JnTqPfdDHpEY2q0B2wXio0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757352384919-cceqhk4mn3musp78use2uvonf7uocckg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
